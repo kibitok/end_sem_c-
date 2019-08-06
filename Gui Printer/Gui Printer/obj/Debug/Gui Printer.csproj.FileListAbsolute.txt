@@ -1,0 +1,10 @@
+C:\Users\Bett.DESKTOP-CA8EKM1\source\repos\Gui Printer\Gui Printer\bin\Debug\Gui Printer.exe.config
+C:\Users\Bett.DESKTOP-CA8EKM1\source\repos\Gui Printer\Gui Printer\bin\Debug\Gui Printer.exe
+C:\Users\Bett.DESKTOP-CA8EKM1\source\repos\Gui Printer\Gui Printer\bin\Debug\Gui Printer.pdb
+C:\Users\Bett.DESKTOP-CA8EKM1\source\repos\Gui Printer\Gui Printer\obj\Debug\Gui Printer.csprojAssemblyReference.cache
+C:\Users\Bett.DESKTOP-CA8EKM1\source\repos\Gui Printer\Gui Printer\obj\Debug\Gui_Printer.Form1.resources
+C:\Users\Bett.DESKTOP-CA8EKM1\source\repos\Gui Printer\Gui Printer\obj\Debug\Gui_Printer.Properties.Resources.resources
+C:\Users\Bett.DESKTOP-CA8EKM1\source\repos\Gui Printer\Gui Printer\obj\Debug\Gui Printer.csproj.GenerateResource.cache
+C:\Users\Bett.DESKTOP-CA8EKM1\source\repos\Gui Printer\Gui Printer\obj\Debug\Gui Printer.csproj.CoreCompileInputs.cache
+C:\Users\Bett.DESKTOP-CA8EKM1\source\repos\Gui Printer\Gui Printer\obj\Debug\Gui Printer.exe
+C:\Users\Bett.DESKTOP-CA8EKM1\source\repos\Gui Printer\Gui Printer\obj\Debug\Gui Printer.pdb

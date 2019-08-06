@@ -1,0 +1,10 @@
+C:\Users\Bett.DESKTOP-CA8EKM1\source\repos\TemperatureConversion\TemperatureConversion\obj\Debug\TemperatureConversion.csprojAssemblyReference.cache
+C:\Users\Bett.DESKTOP-CA8EKM1\source\repos\TemperatureConversion\TemperatureConversion\obj\Debug\TemperatureConversion.Form1.resources
+C:\Users\Bett.DESKTOP-CA8EKM1\source\repos\TemperatureConversion\TemperatureConversion\obj\Debug\TemperatureConversion.Properties.Resources.resources
+C:\Users\Bett.DESKTOP-CA8EKM1\source\repos\TemperatureConversion\TemperatureConversion\obj\Debug\TemperatureConversion.csproj.GenerateResource.cache
+C:\Users\Bett.DESKTOP-CA8EKM1\source\repos\TemperatureConversion\TemperatureConversion\obj\Debug\TemperatureConversion.csproj.CoreCompileInputs.cache
+C:\Users\Bett.DESKTOP-CA8EKM1\source\repos\TemperatureConversion\TemperatureConversion\bin\Debug\TemperatureConversion.exe.config
+C:\Users\Bett.DESKTOP-CA8EKM1\source\repos\TemperatureConversion\TemperatureConversion\bin\Debug\TemperatureConversion.exe
+C:\Users\Bett.DESKTOP-CA8EKM1\source\repos\TemperatureConversion\TemperatureConversion\bin\Debug\TemperatureConversion.pdb
+C:\Users\Bett.DESKTOP-CA8EKM1\source\repos\TemperatureConversion\TemperatureConversion\obj\Debug\TemperatureConversion.exe
+C:\Users\Bett.DESKTOP-CA8EKM1\source\repos\TemperatureConversion\TemperatureConversion\obj\Debug\TemperatureConversion.pdb
